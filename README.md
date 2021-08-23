@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 Update
 
-CSS got so much better!
+카카오톡 클론 포트폴리오입니다.
