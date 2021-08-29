@@ -44,3 +44,7 @@
     margin-bottom: 10px;
     display: block;
 }
+.user-component__text > h6 > i {
+    color: tomato;
+    margin-left: 5px;
+}
